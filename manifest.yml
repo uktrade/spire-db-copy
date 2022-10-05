@@ -1,0 +1,5 @@
+---
+applications:
+  - name: spire-db-copy
+    buildpacks:
+      - python_buildpack
